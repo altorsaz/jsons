@@ -1,52 +1,52 @@
 [
   {
     "id": "e0aaf846-71e2-45c9-b890-b367bbd619fa",
-    "nombre": "El Resplandor",
-    "autor": "Stephen King"
+    "name": "El Resplandor",
+    "writer": "Stephen King"
   },
   {
     "id": "06134653-54bc-4f01-822c-206daf42cb18",
-    "nombre": "Dr\u00e1cula",
-    "autor": "Bram Stoker"
+    "name": "Dr\u00e1cula",
+    "writer": "Bram Stoker"
   },
   {
     "id": "9332f911-0cbe-4440-ac75-95f2eff308f6",
-    "nombre": "Frankenstein",
-    "autor": "Mary Shelley"
+    "name": "Frankenstein",
+    "writer": "Mary Shelley"
   },
   {
     "id": "e1b85f24-dbe1-4308-8110-a11781394152",
-    "nombre": "La llamada de Cthulhu",
-    "autor": "H.P. Lovecraft"
+    "name": "La llamada de Cthulhu",
+    "writer": "H.P. Lovecraft"
   },
   {
     "id": "255a9c36-129e-4eff-a62d-1e1ba3cffdbc",
-    "nombre": "La casa de hojas",
-    "autor": "Mark Z. Danielewski"
+    "name": "La casa de hojas",
+    "writer": "Mark Z. Danielewski"
   },
   {
     "id": "d49ca9c9-ba7b-41c0-8ae9-1030bc331a13",
-    "nombre": "La mujer de negro",
-    "autor": "Susan Hill"
+    "name": "La mujer de negro",
+    "writer": "Susan Hill"
   },
   {
     "id": "00cb590a-af30-4719-b6f9-f3c72d8505cd",
-    "nombre": "Cementerio de animales",
-    "autor": "Stephen King"
+    "name": "Cementerio de animales",
+    "writer": "Stephen King"
   },
   {
     "id": "8c94a0c7-24ab-4f70-8030-af76b629a7b4",
-    "nombre": "Nosferatu",
-    "autor": "Joe Hill"
+    "name": "Nosferatu",
+    "writer": "Joe Hill"
   },
   {
     "id": "83ff16c0-b7b4-4cd6-baa5-9a7474bf88c9",
-    "nombre": "Hell House",
-    "autor": "Richard Matheson"
+    "name": "Hell House",
+    "writer": "Richard Matheson"
   },
   {
     "id": "ea8a11a1-55dc-41eb-ba76-ad1a43de4074",
-    "nombre": "El Exorcista",
-    "autor": "William Peter Blatty"
+    "name": "El Exorcista",
+    "writer": "William Peter Blatty"
   }
 ]
